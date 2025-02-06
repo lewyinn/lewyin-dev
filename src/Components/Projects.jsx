@@ -39,7 +39,7 @@ const Projects = () => {
                                     {item.paragraf}
                                 </p>
                                 <span className='flex justify-center items-center'>
-                                    <Link to="price" className="rounded-full px-5 py-2.5 overflow-hidden cursor-pointer group bg-blue-800 relative hover:bg-gradient-to-r hover:from-blue-800 hover:to-blue-600 text-white hover:ring-2 hover:ring-offset-2 hover:ring-blue-600 transition-all ease-out duration-300">
+                                    <Link to="https://wa.me/6285282932422" className="rounded-full px-5 py-2.5 overflow-hidden cursor-pointer group bg-blue-800 relative hover:bg-gradient-to-r hover:from-blue-800 hover:to-blue-600 text-white hover:ring-2 hover:ring-offset-2 hover:ring-blue-600 transition-all ease-out duration-300">
                                         <span className="absolute right-0 w-8 h-32 -mt-12 transition-all duration-1000 transform translate-x-12 bg-white opacity-10 rotate-12 group-hover:-translate-x-40 ease"></span>
                                         <span className="relative">Learn More</span>
                                     </Link>

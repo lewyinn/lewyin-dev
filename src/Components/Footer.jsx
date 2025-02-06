@@ -22,7 +22,7 @@ export default function Footer() {
                         <LinkRouter to="https://www.instagram.com/ridhokrn.dev/" target="_blank" className="text-lg lg:text-xl text-gray-400 hover:text-blue-800">
                             <FaInstagram />
                         </LinkRouter>
-                        <LinkRouter to="https://wa.me/6285841980449" target="_blank" className="text-lg lg:text-xl text-gray-400 hover:text-blue-800">
+                        <LinkRouter to="https://wa.me/6285282932422" target="_blank" className="text-lg lg:text-xl text-gray-400 hover:text-blue-800">
                             <FaWhatsapp />
                         </LinkRouter>
                         <LinkRouter to="https://www.facebook.com/profile.php?id=61561832165379" target="_blank" className="text-lg lg:text-xl text-gray-400 hover:text-blue-800">
