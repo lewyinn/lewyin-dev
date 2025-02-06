@@ -36,11 +36,11 @@ const Home = () => {
                 <meta property="og:type" content="website" />
                 <meta property="og:title" content="Lewyin Dev - Jasa Pembuatan Website & Desain Grafis Profesional" />
                 <meta property="og:description" content="Lewyin Dev adalah penyedia jasa pembuatan website dan desain grafis berkualitas tinggi. Kami siap membantu bisnis Anda tampil profesional dan menarik secara digital." />
-                <meta property="og:url" content="https://www.lewyindev.vercel.app" />
+                <meta property="og:url" content="https://lewyindev.vercel.app" />
                 <meta property="og:site_name" content="Lewyin Dev" />
 
                 {/* Canonical URL to Avoid Duplicate Content Issues */}
-                <link rel="canonical" href="https://www.lewyindev.vercel.app/" />
+                <link rel="canonical" href="https://lewyindev.vercel.app/" />
 
                 {/* Favicon */}
                 <link rel="icon" href="/LogoLD.webp" type="image/webp" />
