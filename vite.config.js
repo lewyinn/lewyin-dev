@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   build: {
-    minify: 'terser',  // Menggunakan Terser untuk minifikasi
+    minify: 'esbuild',  // Menggunakan Terser untuk minifikasi
     terserOptions: {
       compress: {
         drop_console: true, // Menghapus console.log di production
