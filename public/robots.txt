@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.lewyindev.vercel.app/sitemap.xml
