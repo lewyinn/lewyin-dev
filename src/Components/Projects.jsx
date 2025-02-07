@@ -1,6 +1,7 @@
 import React from 'react'
 import ProjectLandingElo from './../assets/RaftingLanding.png'
 import ProjectBarangApp from './../assets/pinjamApp.webp'
+import MediaTama from './../assets/MediaTama.png'
 import { Link } from 'react-router-dom'
 
 const listProjects = [
@@ -13,6 +14,11 @@ const listProjects = [
         judul: 'Landing Page - Rafting Magelang Elo & Progo',
         paragraf: 'Website informatif dan menarik untuk pengalaman rafting seru di Sungai Elo & Progo, Magelang.',
         image: ProjectLandingElo
+    },
+    {
+        judul: 'Landing Page - MediaTama',
+        paragraf: 'Website Portfolio mengenai MeditaTama sebagai Perusahaan penyedia layanan internet',
+        image: MediaTama
     },
 ]
 

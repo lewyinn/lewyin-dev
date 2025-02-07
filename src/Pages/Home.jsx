@@ -60,6 +60,7 @@ const Home = () => {
                         <Projects />
                     </Suspense>
                 </div>
+                
                 <Suspense fallback={<p>Loading...</p>}>
                 <CaraKerja />
 

@@ -6,7 +6,7 @@ const pricingPlans = [
     {
         title: "Landing Page Basic",
         category: 'coding',
-        price: "Rp. 800.000",
+        price: "Rp. 750.000",
         description: "Cocok untuk bisnis kecil yang ingin memiliki landing page profesional dengan desain modern dan responsif.",
         features: [
             "Free Domain .com 1 Tahun",
@@ -23,7 +23,7 @@ const pricingPlans = [
     {
         title: "Landing Page Professional",
         category: 'coding',
-        price: "Rp. 1.200.000",
+        price: "Rp. 1.400.000",
         description: "Ideal untuk bisnis yang berkembang dan membutuhkan landing page profesional dengan fitur yang lebih canggih untuk meningkatkan produktivitas.",
         features: [
             "Admin Panel Mengatur Content",
@@ -48,7 +48,7 @@ const pricingPlans = [
             "Free Domain .com 1 Tahun",
             "Free Hosting 1 Tahun",
             "Desain responsif & modern",
-            "Berisi maximal 7 Halaman Website",
+            "Berisi maximal 5 Halaman Website",
             "24/7 Dedicated Support",
             "Sertifikasi SSL untuk keamanan data",
             "Instalasi Google Analytics untuk lacak pengunjung",
