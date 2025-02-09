@@ -134,7 +134,7 @@ export default function Pricing() {
                 {visiblePlans.map((plan, index) => (
                     <div key={index} className="bg-black/40 backdrop-blur-lg py-6 px-4 rounded-2xl shadow-lg border border-gray-700">
                         <h3 className="text-xl font-semibold">{plan.title}</h3>
-                        <p className="text-4xl font-bold my-3">{plan.price} <span className="text-lg">/ Per Month</span></p>
+                        <p className="text-4xl font-bold my-3">{plan.price}</p>
                         <p className="text-gray-400 mb-4 h-auto md:h-20">{plan.description}</p>
                         <Link to="https://wa.me/6285282932422" target="_blank" className="w-full py-2.5 relative rounded-xl group overflow-hidden font-medium bg-purple-50 text-blue-800 inline-block">
                             <span className="absolute top-0 left-0 flex w-full h-0 mb-0 transition-all duration-200 ease-out transform translate-y-0 bg-blue-800 group-hover:h-full opacity-90"></span>
